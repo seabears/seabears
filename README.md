@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ols2050623)](https://solved.ac/ols2050623)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={ols2050623}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ols2050623&theme=warm)
