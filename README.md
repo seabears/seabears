@@ -31,6 +31,6 @@ Here are some ideas to get you started:
   <a href="https://solved.ac/ols2050623">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ols2050623" alt="Solved.ac Profile"/>
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <img src="http://mazandi.herokuapp.com/api?handle=ols2050623&theme=warm" alt="mazandi profile"/>
 </p>
