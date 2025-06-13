@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Github Status-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Seabears&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Seabears's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seabears&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Seabears's GitHub stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seabears&layout=compact&theme=buefy&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seabears&layout=compact&theme=dracula&hide_border=true" />
+  </a>
 </p>
 
 
