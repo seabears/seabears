@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 
 <br>
 
-##
 <!-- solved.ac 등급 및 잔디-->
 <p align="center">
   <a href="https://solved.ac/ols2050623">
