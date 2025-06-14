@@ -43,6 +43,17 @@ Here are some ideas to get you started:
 
 <br>
 
+## <img src="https://img.shields.io/badge/🔧-gray?style=flat"> Hardware Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Infineon-0066CC?style=flat&logo=infineon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=flat&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
+</p>
+
+<br>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
