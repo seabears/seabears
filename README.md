@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.shields.io/badge/>__-black?style=flat"> Development Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
