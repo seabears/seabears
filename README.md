@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## <img src="https://img.shields.io/badge/</>_-skyblue?style=flat"> Programming Languages
+<p align="left">
+  <!-- 📚 사용 언어 -->
+  <img src="https://img.shields.io/badge/C-A8B9CC">
+  <img src="https://img.shields.io/badge/C++-00599C">
+  <img src="https://img.shields.io/badge/Python-3776AB">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF">
+  <img src="https://img.shields.io/badge/Verilog-6ac265">
+</p>
+
+## <img src="https://img.shields.io/badge/>__-black?style=flat"> Development Tools
+<p align="left">
+  <!-- 📚 사용 언어 -->
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white">
+</p>
+
+
+
 <img src="https://img.shields.io/badge/C--red">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
