@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
-## <img src="https://img.shields.io/badge/</>_-skyblue?style=flat"> Programming Languages
+## <img src="https://img.shields.io/badge/</>_-5DADE2?style=flat"> Programming Languages
 <p align="left">
   <!-- 📚 사용 언어 -->
   <img src="https://img.shields.io/badge/C-A8B9CC">
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-7F52FF">
   <img src="https://img.shields.io/badge/Verilog-6ac265">
 </p>
+
+---
 
 ## <img src="https://img.shields.io/badge/>__-black?style=flat"> Development Tools
 <p align="left">
@@ -38,8 +41,8 @@ Here are some ideas to get you started:
 </p>
 
 
+---
 
-<img src="https://img.shields.io/badge/C--red">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seabears&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Seabears's GitHub stats" />
@@ -49,6 +52,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+---
 
 <!-- solved.ac 등급 및 잔디-->
 <p align="center">
