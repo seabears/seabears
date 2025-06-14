@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+<br>
 
 ## <img src="https://img.shields.io/badge/</>_-5DADE2?style=flat"> Programming Languages
 <p align="left">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Verilog-6ac265">
 </p>
 
----
+<br>
 
 ## <img src="https://img.shields.io/badge/>__-black?style=flat"> Development Tools
 <p align="left">
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 </p>
 
 
----
+<br>
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
+<br>
 
 <!-- solved.ac 등급 및 잔디-->
 <p align="center">
