@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <br>
 
 
+## 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seabears&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Seabears's GitHub stats" />
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
 
 <br>
 
+##
 <!-- solved.ac 등급 및 잔디-->
 <p align="center">
   <a href="https://solved.ac/ols2050623">
